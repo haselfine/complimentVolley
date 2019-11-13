@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">complimentVolley</string>
+    <string name="string_text">You are a lovely human being!</string>
+    <string name="button_text">Tap here!</string>
+</resources>
